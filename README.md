@@ -92,4 +92,8 @@ This repository provides a structured overview of technical competencies and cog
 | HPC Scientific Software Engineer      | II – III            |
 | HPC Sr. Scientific Software Engineer  | III – IV            |
 
+## ☁️ Cloud Computing Note
+
+**Important:** This matrix is related to work with on-premise HPC. For Microsoft Cloud, I recommend taking the **Azure AZ-104 certification: The Azure Administrator Associate**.
+
 ---
