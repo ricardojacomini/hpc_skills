@@ -18,7 +18,7 @@ For a comprehensive visual representation of the HPC skills matrix based on Bloo
 
 **[📄 HPC Skills Matrix (PDF)](./matrix-bloom_taxonomy.pdf)**
 
-This PDF provides a detailed matrix mapping HPC technologies and skills across cognitive levels and skill progression paths.
+This PDF provides a detailed matrix mapping HPC technologies and skills across cognitive levels and skill progression paths, based on my profile when I worked at JHU ARCH HPC facilities, 2018-2025.
 
 # 💡 HPC Self-Evaluation Matrix: Knowledge & Responsibility Levels
 
