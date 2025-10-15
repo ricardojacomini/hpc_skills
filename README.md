@@ -1,5 +1,9 @@
 🧭 Perspective & Professional Insight
-🧠 "In my opinion, there are two distinct paths in HPC: one leaning toward system administration, and the other toward scientific software engineering."
+🧠 "In my opinion, there are two distinct paths in High-performance computing (HPC): one leaning toward system administration, and the other toward scientific software engineering."
+
+## ☁️ Cloud Computing Note
+
+**Important:** This matrix is intended for professionals who will be engaged in tasks related to on-premise HPC initiatives for the University's facility. For those involving Microsoft Azure Cloud, I recommend taking the **[Azure AZ-104 certification: The Azure Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)**.
 
 The system administration path emphasizes foundational skills in Linux, networking, and hardware management (CPU, GPU, FPGA). The scientific software path leans into coding, algorithms, and specialized HPC frameworks and tools.
 Having worked as a Scientific Software Engineer for several years, I designed this matrix using Bloom’s Taxonomy to reflect the skill progression I’ve observed and experienced firsthand. It integrates over 25 years of deep technical involvement in Linux, networking, and hands-on coding, as well as the advanced tools and workflows I utilized across roles.
@@ -7,6 +11,7 @@ This framework is intended to help others:
 - 🧩 Identify which skills they currently have and at what level
 - 🔍 Choose where to invest learning time based on interest or career goals
 - 📈 Advance from foundational (Level 1) to expert-level mastery (Level 6)
+
 For example:
 - Skills like Linux and Python often provide a solid foundation for HPC System Engineering.
 - Specialized technologies and frameworks mark progression into Scientific Software Engineering.
@@ -92,8 +97,5 @@ This repository provides a structured overview of technical competencies and cog
 | HPC Scientific Software Engineer      | II – III            |
 | HPC Sr. Scientific Software Engineer  | III – IV            
 
-## ☁️ Cloud Computing Note
-
-**Important:** This matrix is related to work with on-premise HPC, e.g. for Microsoft Cloud, I recommend taking the **[Azure AZ-104 certification: The Azure Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification)**.
 
 ---
