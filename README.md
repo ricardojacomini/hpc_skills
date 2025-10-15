@@ -96,4 +96,5 @@ For a comprehensive visual representation of the HPC skills matrix based on Bloo
 **[📄 HPC Skills Matrix (PDF)](./matrix-bloom_taxonomy.pdf)**
 
 This PDF provides a detailed matrix mapping HPC technologies and skills across cognitive levels and skill progression paths, based on my [profile](https://www.linkedin.com/in/ricardo-s-jacomini/) when I worked at The Advanced Research Computing at Hopkins (ARCH) HPC facilities, 2021-2025.
+
 ---
