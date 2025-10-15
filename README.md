@@ -17,14 +17,6 @@ For example:
 - Specialized technologies and frameworks mark progression into Scientific Software Engineering.
 The more skills you master and elevate toward higher cognitive levels — especially those aligned toward the right columns of the matrix — the deeper your expertise and seniority in HPC becomes.
 
-## 📊 Visual Matrix
-
-For a comprehensive visual representation of the HPC skills matrix based on Bloom's Taxonomy, please refer to:
-
-**[📄 HPC Skills Matrix (PDF)](./matrix-bloom_taxonomy.pdf)**
-
-This PDF provides a detailed matrix mapping HPC technologies and skills across cognitive levels and skill progression paths, based on my [profile](https://www.linkedin.com/in/ricardo-s-jacomini/) when I worked at The Advanced Research Computing at Hopkins (ARCH) HPC facilities, 2021-2025.
-
 # 💡 HPC Matrix for Self-Learning & Ramp-Up: Knowledge & Responsibility Levels
 
 This repository provides a structured overview of technical competencies and cognitive development across High Performance Computing (HPC) domains. Based on Bloom's Taxonomy, it helps assess skill levels for HPC professionals and guide learning paths.
@@ -97,5 +89,11 @@ This repository provides a structured overview of technical competencies and cog
 | HPC Scientific Software Engineer      | II – III            |
 | HPC Sr. Scientific Software Engineer  | III – IV            
 
+## 📊 Visual Matrix
 
+For a comprehensive visual representation of the HPC skills matrix based on Bloom's Taxonomy, please refer to:
+
+**[📄 HPC Skills Matrix (PDF)](./matrix-bloom_taxonomy.pdf)**
+
+This PDF provides a detailed matrix mapping HPC technologies and skills across cognitive levels and skill progression paths, based on my [profile](https://www.linkedin.com/in/ricardo-s-jacomini/) when I worked at The Advanced Research Computing at Hopkins (ARCH) HPC facilities, 2021-2025.
 ---
