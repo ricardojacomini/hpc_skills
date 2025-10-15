@@ -25,7 +25,7 @@ For a comprehensive visual representation of the HPC skills matrix based on Bloo
 
 This PDF provides a detailed matrix mapping HPC technologies and skills across cognitive levels and skill progression paths, based on my [profile](https://www.linkedin.com/in/ricardo-s-jacomini/) when I worked at The Advanced Research Computing at Hopkins (ARCH) HPC facilities, 2021-2025.
 
-# 💡 HPC Self-Evaluation Matrix: Knowledge & Responsibility Levels
+# 💡 HPC Matrix for Self-Learning & Ramp-Up: Knowledge & Responsibility Levels
 
 This repository provides a structured overview of technical competencies and cognitive development across High Performance Computing (HPC) domains. Based on Bloom's Taxonomy, it helps assess skill levels for HPC professionals and guide learning paths.
 
